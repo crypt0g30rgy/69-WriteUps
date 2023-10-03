@@ -21,3 +21,5 @@ https://www.descope.com/blog/post/noauth
 Dependency Confusion
 
 https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f
+
+https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
