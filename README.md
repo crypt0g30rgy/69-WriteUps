@@ -17,3 +17,7 @@ nOAuth: How Microsoft OAuth Misconfiguration Can Lead to Full Account Takeover
 https://bibek-shah.medium.com/noauth-account-takeover-via-microsoft-oauth-cc653410b886
 
 https://www.descope.com/blog/post/noauth
+
+Dependency Confusion
+
+https://chevonphillip.medium.com/rce-due-to-dependency-confusion-5000-bounty-fd1b294d645f
