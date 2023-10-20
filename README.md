@@ -28,3 +28,8 @@ Expanding the Attack Surface: React Native Android Applications
 
 https://blog.assetnote.io/bug-bounty/2020/02/02/expanding-attack-surface-react-native/
 
+SSRF
+
+https://rafa.hashnode.dev/exploiting-http-parsers-inconsistencies
+
+https://infosecwriteups.com/exploiting-non-cloud-ssrf-for-more-fun-profit-3597934518c8
